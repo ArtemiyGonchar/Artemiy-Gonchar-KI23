@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707939893 source:d:\univerproj\bmtp-lab7-gonchar\prj\gonchar-task_7_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
